@@ -16,7 +16,7 @@ In this Lecture, you will learn what is intent and how to use it.
  * Add an map intent action to open tokyo station.
  * Search "Kiradeco Picture" on Google Play with one button.
  * Pick up an image from Gallery and show on the view. (This may take more than 30 min.)
- * Receive URL Scheme <form method="get" action="morodomi://launch"><input type="submit" value="morodomi://launch" /></form>
+ * Receive URL Scheme morodomi://launch with this app. Click <a href="morodomi://launch">this</a>
 
 ## References (Japanese)
 http://www.saturn.dti.ne.jp/npaka/android/intent/index.html
