@@ -21,7 +21,6 @@ public class IntentActivity extends Activity implements OnClickListener {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 		// set OnClickListeners
-		findViewById(R.id.mail).setOnClickListener(this);
 		findViewById(R.id.sms).setOnClickListener(this);
 		findViewById(R.id.tel).setOnClickListener(this);
 		findViewById(R.id.http).setOnClickListener(this);

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Lecture 4</string>
-	<string name="mail">MAIL</string>
 	<string name="sms">SMS</string>
 	<string name="tel">TELEPHONE</string>
 	<string name="http">HTTP</string>

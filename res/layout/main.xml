@@ -14,15 +14,6 @@
 			android:layout_height="wrap_content"
 			android:orientation="vertical"
 		>
-			<!-- Mail intent -->
-			<TextView
-				android:id="@+id/mail"
-				android:layout_width="fill_parent"
-				android:layout_height="wrap_content"
-				android:layout_margin="5dp"
-				android:text="@string/mail"
-				android:textSize="20dp"
-				android:background="@drawable/background" />
 			<!-- SMS -->
 			<TextView
 				android:id="@+id/sms"
