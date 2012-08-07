@@ -18,10 +18,12 @@ In this Lecture, you will learn what is intent and how to use it.
  * Receive URL Scheme morodomi://launch with this app. http://dl.dropbox.com/u/54119179/Android/url_scheme.html
  * Pick up an image from Gallery and show on the view. (This may take more than 30 min.)
 
-## References (Japanese)
+##References (Japanese)
 http://www.saturn.dti.ne.jp/npaka/android/intent/index.html
 
-## 
+##Presentation (Japanese)
+http://dl.dropbox.com/u/54119179/Android/android-lecture-4.html
+
 ##License
     Copyright (c) on 2012, Masahiro Morodomi
 
